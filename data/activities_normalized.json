@@ -11815,5 +11815,31 @@
     "start_date_local": "2026-03-13T17:46:18Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 106460.0,
+    "elevation_gain": 164.0,
+    "id": "17722430744",
+    "moving_time": 10956.0,
+    "name": "Long bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-14T10:38:48Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 6021.8,
+    "elevation_gain": 0.0,
+    "id": "17722804428",
+    "moving_time": 1873.0,
+    "name": "Brick Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-14T13:44:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
