@@ -11880,5 +11880,31 @@
     "start_date_local": "2026-03-17T18:13:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 34022.3,
+    "elevation_gain": 53.0,
+    "id": "17771345006",
+    "moving_time": 3459.0,
+    "name": "Sweet Spot - 2 x 15",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-18T15:09:15Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 1900.0,
+    "elevation_gain": 0.0,
+    "id": "17780147824",
+    "moving_time": 2127.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-03-19T10:35:57Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
