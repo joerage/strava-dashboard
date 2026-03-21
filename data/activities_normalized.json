@@ -11906,5 +11906,31 @@
     "start_date_local": "2026-03-19T10:35:57Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 27065.2,
+    "elevation_gain": 2714.8,
+    "id": "17796745369",
+    "moving_time": 6734.0,
+    "name": "Lunch Snowboard",
+    "raw_activity_type": "Snowboard",
+    "raw_type": "Snowboard",
+    "start_date_local": "2026-03-20T11:33:46Z",
+    "type": "Snowboard",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 24987.2,
+    "elevation_gain": 119.0,
+    "id": "17798185568",
+    "moving_time": 6076.0,
+    "name": "Lunch Alpine Ski",
+    "raw_activity_type": "AlpineSki",
+    "raw_type": "AlpineSki",
+    "start_date_local": "2026-03-20T11:34:36Z",
+    "type": "AlpineSki",
+    "year": 2026
   }
 ]
