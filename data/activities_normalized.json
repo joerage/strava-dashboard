@@ -11932,5 +11932,18 @@
     "start_date_local": "2026-03-20T11:34:36Z",
     "type": "AlpineSki",
     "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 9038.6,
+    "elevation_gain": 514.0,
+    "id": "17807408239",
+    "moving_time": 9076.0,
+    "name": "Lunch Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-03-21T11:32:59Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

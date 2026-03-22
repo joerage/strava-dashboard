@@ -6425,6 +6425,13 @@
       "subtype": "AlpineSki",
       "type": "AlpineSki",
       "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 11,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13705,6 +13712,17 @@
           "moving_time": 6076.0
         }
       },
+      "Hike": {
+        "2026-03-21": {
+          "activity_ids": [
+            "17807408239"
+          ],
+          "count": 1,
+          "distance": 9038.6,
+          "elevation_gain": 514.0,
+          "moving_time": 9076.0
+        }
+      },
       "IceSkate": {
         "2026-02-23": {
           "activity_ids": [
@@ -14691,7 +14709,7 @@
       }
     }
   },
-  "generated_at": "2026-03-21T15:28:57.125346+00:00",
+  "generated_at": "2026-03-22T15:29:14.903961+00:00",
   "other_bucket": "OtherSports",
   "repo": "joerage/strava-dashboard",
   "source": "strava",
