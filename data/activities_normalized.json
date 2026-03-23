@@ -11945,5 +11945,18 @@
     "start_date_local": "2026-03-21T11:32:59Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 76296.8,
+    "elevation_gain": 117.0,
+    "id": "17821257246",
+    "moving_time": 7934.0,
+    "name": "Long bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-22T14:13:44Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
