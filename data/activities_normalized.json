@@ -12101,5 +12101,18 @@
     "start_date_local": "2026-04-01T10:55:38Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 56248.1,
+    "elevation_gain": 85.0,
+    "id": "17945056465",
+    "moving_time": 5622.0,
+    "name": "Sweet Spot - 2 x 30",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-01T20:28:11Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
