@@ -12153,5 +12153,31 @@
     "start_date_local": "2026-04-03T17:27:47Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 106875.0,
+    "elevation_gain": 164.0,
+    "id": "17978710614",
+    "moving_time": 10839.0,
+    "name": "Long bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-04T11:04:12Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 7460.5,
+    "elevation_gain": 19.0,
+    "id": "17979159075",
+    "moving_time": 2195.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T14:09:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
