@@ -12192,5 +12192,18 @@
     "start_date_local": "2026-04-05T11:27:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 36930.0,
+    "elevation_gain": 303.0,
+    "id": "18005152491",
+    "moving_time": 4534.0,
+    "name": "Aerobic endurance",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-06T16:07:35Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
