@@ -12218,5 +12218,18 @@
     "start_date_local": "2026-04-07T15:11:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 29388.7,
+    "elevation_gain": 46.0,
+    "id": "18035206883",
+    "moving_time": 3097.0,
+    "name": "(A little) Sweet Spot \ud83e\udd37",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-08T20:16:13Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
