@@ -12231,5 +12231,44 @@
     "start_date_local": "2026-04-08T20:16:13Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 5000.8,
+    "elevation_gain": 32.0,
+    "id": "18069751864",
+    "moving_time": 4147.0,
+    "name": "Surfing in Nicaragua!",
+    "raw_activity_type": "Surfing",
+    "raw_type": "StandUpPaddling",
+    "start_date_local": "2026-04-11T09:40:41Z",
+    "type": "StandUpPaddling",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 6894.0,
+    "elevation_gain": 58.0,
+    "id": "18079418656",
+    "moving_time": 2687.0,
+    "name": "Carrera por la ma\u00f1ana \ud83c\uddf3\ud83c\uddee",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T05:56:05Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 4063.3,
+    "elevation_gain": 93.5,
+    "id": "18081561744",
+    "moving_time": 3534.0,
+    "name": "Surf #3",
+    "raw_activity_type": "Surfing",
+    "raw_type": "Surfing",
+    "start_date_local": "2026-04-12T08:00:40Z",
+    "type": "Surfing",
+    "year": 2026
   }
 ]

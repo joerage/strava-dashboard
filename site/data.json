@@ -6586,6 +6586,27 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 9,
+      "subtype": "StandUpPaddling",
+      "type": "StandUpPaddling",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 5,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 8,
+      "subtype": "Surfing",
+      "type": "Surfing",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14311,6 +14332,15 @@
           "distance": 11215.8,
           "elevation_gain": 29.0,
           "moving_time": 3365.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18079418656"
+          ],
+          "count": 1,
+          "distance": 6894.0,
+          "elevation_gain": 58.0,
+          "moving_time": 2687.0
         }
       },
       "Snowboard": {
@@ -14331,6 +14361,28 @@
           "distance": 27065.2,
           "elevation_gain": 2714.8,
           "moving_time": 6734.0
+        }
+      },
+      "StandUpPaddling": {
+        "2026-04-11": {
+          "activity_ids": [
+            "18069751864"
+          ],
+          "count": 1,
+          "distance": 5000.8,
+          "elevation_gain": 32.0,
+          "moving_time": 4147.0
+        }
+      },
+      "Surfing": {
+        "2026-04-12": {
+          "activity_ids": [
+            "18081561744"
+          ],
+          "count": 1,
+          "distance": 4063.3,
+          "elevation_gain": 93.5,
+          "moving_time": 3534.0
         }
       },
       "Swim": {
@@ -15061,7 +15113,7 @@
       }
     }
   },
-  "generated_at": "2026-04-11T15:36:22.655655+00:00",
+  "generated_at": "2026-04-12T15:38:20.761893+00:00",
   "other_bucket": "OtherSports",
   "repo": "joerage/strava-dashboard",
   "source": "strava",
@@ -15106,6 +15158,10 @@
       "accent": "#72efdd",
       "label": "Stand Up Paddling"
     },
+    "Surfing": {
+      "accent": "#fb5607",
+      "label": "Surfing"
+    },
     "Swim": {
       "accent": "#3a86ff",
       "label": "Swim"
@@ -15138,6 +15194,7 @@
     "Run",
     "Snowboard",
     "StandUpPaddling",
+    "Surfing",
     "Swim",
     "VirtualRide",
     "Walk",
