@@ -12283,5 +12283,31 @@
     "start_date_local": "2026-04-13T06:51:25Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 2803.7,
+    "elevation_gain": 382.3,
+    "id": "18095287434",
+    "moving_time": 2820.0,
+    "name": "Surf #4",
+    "raw_activity_type": "Surfing",
+    "raw_type": "Surfing",
+    "start_date_local": "2026-04-13T11:54:48Z",
+    "type": "Surfing",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 1828.1,
+    "elevation_gain": 15.0,
+    "id": "18105192091",
+    "moving_time": 1897.0,
+    "name": "More Surfing",
+    "raw_activity_type": "Surfing",
+    "raw_type": "Surfing",
+    "start_date_local": "2026-04-14T07:38:52Z",
+    "type": "Surfing",
+    "year": 2026
   }
 ]
