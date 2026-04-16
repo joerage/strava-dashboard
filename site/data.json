@@ -6635,6 +6635,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-04-15",
+      "hour": 9,
+      "subtype": "Surfing",
+      "type": "Surfing",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14447,6 +14454,15 @@
           "distance": 1828.1,
           "elevation_gain": 15.0,
           "moving_time": 1897.0
+        },
+        "2026-04-15": {
+          "activity_ids": [
+            "18121301813"
+          ],
+          "count": 1,
+          "distance": 5373.5,
+          "elevation_gain": 69.3,
+          "moving_time": 4486.0
         }
       },
       "Swim": {
@@ -15177,7 +15193,7 @@
       }
     }
   },
-  "generated_at": "2026-04-15T16:07:51.594928+00:00",
+  "generated_at": "2026-04-16T16:24:27.237332+00:00",
   "other_bucket": "OtherSports",
   "repo": "joerage/strava-dashboard",
   "source": "strava",

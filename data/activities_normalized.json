@@ -12322,5 +12322,18 @@
     "start_date_local": "2026-04-15T07:02:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 5373.5,
+    "elevation_gain": 69.3,
+    "id": "18121301813",
+    "moving_time": 4486.0,
+    "name": "Surf in Popoyo",
+    "raw_activity_type": "Surfing",
+    "raw_type": "Surfing",
+    "start_date_local": "2026-04-15T09:41:39Z",
+    "type": "Surfing",
+    "year": 2026
   }
 ]
