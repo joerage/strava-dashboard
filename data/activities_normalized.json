@@ -12335,5 +12335,18 @@
     "start_date_local": "2026-04-15T09:41:39Z",
     "type": "Surfing",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 6147.8,
+    "elevation_gain": 41.3,
+    "id": "18133994351",
+    "moving_time": 4779.0,
+    "name": "Last surf session",
+    "raw_activity_type": "Surfing",
+    "raw_type": "Surfing",
+    "start_date_local": "2026-04-16T07:37:07Z",
+    "type": "Surfing",
+    "year": 2026
   }
 ]
