@@ -12348,5 +12348,18 @@
     "start_date_local": "2026-04-16T07:37:07Z",
     "type": "Surfing",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 69994.7,
+    "elevation_gain": 107.0,
+    "id": "18161870883",
+    "moving_time": 7240.0,
+    "name": "Long bike",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-18T11:28:51Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
