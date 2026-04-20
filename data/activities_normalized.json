@@ -12361,5 +12361,31 @@
     "start_date_local": "2026-04-18T11:28:51Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 36530.1,
+    "elevation_gain": 335.0,
+    "id": "18176400383",
+    "moving_time": 4574.0,
+    "name": "Aerobic endurance",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-19T13:19:49Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 1975.0,
+    "elevation_gain": 0.0,
+    "id": "18179096155",
+    "moving_time": 2277.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-19T15:33:46Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
