@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T16:10:00.152461+00:00",
+  "generated_at": "2026-04-24T16:05:58.062376+00:00",
   "years": {
     "2011": {
       "Run": {
@@ -7759,6 +7759,15 @@
           "distance": 11047.0,
           "elevation_gain": 40.0,
           "moving_time": 3322.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18231544945"
+          ],
+          "count": 1,
+          "distance": 11201.5,
+          "elevation_gain": 36.0,
+          "moving_time": 3489.0
         }
       },
       "Snowboard": {
@@ -8046,6 +8055,15 @@
           "distance": 2000.0,
           "elevation_gain": 0.0,
           "moving_time": 2270.0
+        },
+        "2026-04-24": {
+          "activity_ids": [
+            "18240194607"
+          ],
+          "count": 1,
+          "distance": 1700.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1890.0
         }
       },
       "VirtualRide": {
@@ -8489,6 +8507,15 @@
           "distance": 40441.7,
           "elevation_gain": 552.0,
           "moving_time": 5425.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18226258797"
+          ],
+          "count": 1,
+          "distance": 40453.4,
+          "elevation_gain": 370.0,
+          "moving_time": 4752.0
         }
       },
       "WeightTraining": {
