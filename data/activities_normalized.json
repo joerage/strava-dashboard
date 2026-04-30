@@ -12530,5 +12530,18 @@
     "start_date_local": "2026-04-29T10:59:40Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 45075.7,
+    "elevation_gain": 406.0,
+    "id": "18313887361",
+    "moving_time": 5426.0,
+    "name": "Recovery",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-29T20:10:09Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
