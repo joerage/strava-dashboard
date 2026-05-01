@@ -12543,5 +12543,31 @@
     "start_date_local": "2026-04-29T20:10:09Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 53610.1,
+    "elevation_gain": 308.0,
+    "id": "18325398756",
+    "moving_time": 5426.0,
+    "name": "Cruise Intervals",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-30T18:16:26Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 7019.1,
+    "elevation_gain": 15.0,
+    "id": "18326192117",
+    "moving_time": 2088.0,
+    "name": "Brick Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-30T19:51:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
