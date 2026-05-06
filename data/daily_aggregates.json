@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T16:25:32.322764+00:00",
+  "generated_at": "2026-05-06T16:42:54.172757+00:00",
   "years": {
     "2011": {
       "Run": {
@@ -7327,6 +7327,15 @@
           "distance": 100109.0,
           "elevation_gain": 251.0,
           "moving_time": 11017.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "18387976959"
+          ],
+          "count": 1,
+          "distance": 17321.7,
+          "elevation_gain": 58.0,
+          "moving_time": 1998.0
         }
       },
       "Run": {
@@ -7842,6 +7851,15 @@
           "distance": 18521.8,
           "elevation_gain": 67.0,
           "moving_time": 6213.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "18392664614"
+          ],
+          "count": 1,
+          "distance": 13618.3,
+          "elevation_gain": 36.0,
+          "moving_time": 4545.0
         }
       },
       "Snowboard": {
@@ -8165,6 +8183,15 @@
           "distance": 2250.0,
           "elevation_gain": 0.0,
           "moving_time": 2710.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18400368859"
+          ],
+          "count": 1,
+          "distance": 1750.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1909.0
         }
       },
       "VirtualRide": {
