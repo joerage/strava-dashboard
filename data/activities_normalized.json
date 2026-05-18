@@ -12829,5 +12829,31 @@
     "start_date_local": "2026-05-16T16:58:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 9345.5,
+    "elevation_gain": 35.0,
+    "id": "18547281514",
+    "moving_time": 2760.0,
+    "name": "Brick Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T13:48:37Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 90712.2,
+    "elevation_gain": 1346.0,
+    "id": "18547306986",
+    "moving_time": 10798.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-17T10:41:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
