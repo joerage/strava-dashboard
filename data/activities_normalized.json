@@ -12862,11 +12862,37 @@
     "elevation_gain": 36.0,
     "id": "18570268284",
     "moving_time": 3740.0,
-    "name": "Tempo Run",
+    "name": "Cruise Intervals Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-05-19T11:27:18Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 33846.9,
+    "elevation_gain": 79.0,
+    "id": "18573870424",
+    "moving_time": 3869.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-19T16:05:06Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 1500.0,
+    "elevation_gain": 0.0,
+    "id": "18583202355",
+    "moving_time": 1557.0,
+    "name": "Lunch Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-20T11:01:59Z",
+    "type": "Swim",
     "year": 2026
   }
 ]
