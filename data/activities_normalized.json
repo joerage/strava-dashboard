@@ -12972,5 +12972,31 @@
     "start_date_local": "2026-05-23T14:13:21Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 105191.0,
+    "elevation_gain": 822.0,
+    "id": "18639517737",
+    "moving_time": 11225.0,
+    "name": "Zwift - Double Parked in New York",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-24T11:57:57Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 11883.8,
+    "elevation_gain": 49.0,
+    "id": "18640148105",
+    "moving_time": 3614.0,
+    "name": "Brick Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-24T15:15:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
