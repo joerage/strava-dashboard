@@ -13180,5 +13180,44 @@
     "start_date_local": "2026-06-03T20:03:07Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 18462.8,
+    "elevation_gain": 61.0,
+    "id": "18791138500",
+    "moving_time": 2057.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-04T20:16:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 2992.6,
+    "elevation_gain": 5.0,
+    "id": "18799750907",
+    "moving_time": 1493.0,
+    "name": "PT said zone 0",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-05T13:10:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 2283.5,
+    "elevation_gain": 0.0,
+    "id": "18813666039",
+    "moving_time": 2912.0,
+    "name": "OW Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-06T12:31:30Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
