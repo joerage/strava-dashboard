@@ -13421,7 +13421,7 @@
     "elevation_gain": 133.0,
     "id": "19012887536",
     "moving_time": 6416.0,
-    "name": "Morning Run",
+    "name": "Tremblant 70.3 Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-06-21T10:46:02Z",
@@ -13438,6 +13438,19 @@
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-21T08:10:42Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 89727.9,
+    "elevation_gain": 863.0,
+    "id": "19013509223",
+    "moving_time": 9197.0,
+    "name": "Tremblant 70.3 Bike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T08:11:33Z",
     "type": "Ride",
     "year": 2026
   }
