@@ -13453,5 +13453,31 @@
     "start_date_local": "2026-06-21T08:11:33Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 10862.4,
+    "elevation_gain": 30.0,
+    "id": "19039885756",
+    "moving_time": 1819.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-23T14:39:53Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 1521.9,
+    "elevation_gain": 4.0,
+    "id": "19049866619",
+    "moving_time": 691.0,
+    "name": "Rehab #1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-24T10:10:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
