@@ -13583,5 +13583,18 @@
     "start_date_local": "2026-07-01T07:44:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 39586.7,
+    "elevation_gain": 532.0,
+    "id": "19150086537",
+    "moving_time": 4713.0,
+    "name": "Zwift - Velo T-133",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-02T07:31:25Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
