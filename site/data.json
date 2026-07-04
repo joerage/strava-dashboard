@@ -7328,6 +7328,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-07-03",
+      "hour": 12,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14617,6 +14624,15 @@
           "distance": 9038.6,
           "elevation_gain": 514.0,
           "moving_time": 9076.0
+        },
+        "2026-07-03": {
+          "activity_ids": [
+            "19175410786"
+          ],
+          "count": 1,
+          "distance": 7671.4,
+          "elevation_gain": 483.0,
+          "moving_time": 7967.0
         }
       },
       "IceSkate": {
@@ -16733,7 +16749,7 @@
       }
     }
   },
-  "generated_at": "2026-07-03T16:25:52.844086+00:00",
+  "generated_at": "2026-07-04T16:04:03.013490+00:00",
   "other_bucket": "OtherSports",
   "repo": "joerage/strava-dashboard",
   "source": "strava",

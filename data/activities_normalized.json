@@ -13603,11 +13603,24 @@
     "elevation_gain": 73.0,
     "id": "19164731971",
     "moving_time": 1502.0,
-    "name": "Morning Run",
+    "name": "Rehab #5",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-07-03T10:00:06Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 7671.4,
+    "elevation_gain": 483.0,
+    "id": "19175410786",
+    "moving_time": 7967.0,
+    "name": "Lunch Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-03T12:56:28Z",
+    "type": "Hike",
     "year": 2026
   }
 ]
