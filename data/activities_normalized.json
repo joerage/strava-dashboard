@@ -13635,5 +13635,31 @@
     "start_date_local": "2026-07-04T09:26:52Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 2800.9,
+    "elevation_gain": 2.0,
+    "id": "19195124385",
+    "moving_time": 952.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-05T18:39:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 51900.6,
+    "elevation_gain": 79.0,
+    "id": "19195780834",
+    "moving_time": 5417.0,
+    "name": "Zwift - Velo T-134",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-05T19:23:05Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
