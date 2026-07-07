@@ -13661,5 +13661,18 @@
     "start_date_local": "2026-07-05T19:23:05Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 32111.6,
+    "elevation_gain": 152.0,
+    "id": "19208286073",
+    "moving_time": 3626.0,
+    "name": "Zwift - Velo T-135",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-06T19:59:05Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
