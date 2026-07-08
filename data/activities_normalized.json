@@ -13674,5 +13674,18 @@
     "start_date_local": "2026-07-06T19:59:05Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 35697.1,
+    "elevation_gain": 54.0,
+    "id": "19219931836",
+    "moving_time": 3637.0,
+    "name": "Zwift - Velo T-136",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-07T15:29:41Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
