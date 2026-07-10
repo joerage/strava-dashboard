@@ -13713,5 +13713,31 @@
     "start_date_local": "2026-07-08T19:34:28Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 35627.4,
+    "elevation_gain": 54.0,
+    "id": "19247654971",
+    "moving_time": 3744.0,
+    "name": "Zwift - Velo T-137",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-09T15:01:53Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 5508.9,
+    "elevation_gain": 10.0,
+    "id": "19257475530",
+    "moving_time": 1807.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-10T11:09:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
