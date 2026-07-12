@@ -13739,5 +13739,31 @@
     "start_date_local": "2026-07-10T11:09:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 51907.7,
+    "elevation_gain": 79.0,
+    "id": "19274698459",
+    "moving_time": 5436.0,
+    "name": "Zwift - Velo T-138",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-11T17:06:02Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 6154.6,
+    "elevation_gain": 7.0,
+    "id": "19281796080",
+    "moving_time": 1939.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-12T08:17:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
