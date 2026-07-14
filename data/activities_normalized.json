@@ -13765,5 +13765,18 @@
     "start_date_local": "2026-07-12T08:17:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 32870.5,
+    "elevation_gain": 53.0,
+    "id": "19302466612",
+    "moving_time": 3628.0,
+    "name": "Zwift - Velo T-139",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-13T20:05:45Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
