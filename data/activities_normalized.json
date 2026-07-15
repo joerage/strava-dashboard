@@ -13778,5 +13778,44 @@
     "start_date_local": "2026-07-13T20:05:45Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 37477.4,
+    "elevation_gain": 59.0,
+    "id": "19315249684",
+    "moving_time": 3863.0,
+    "name": "Zwift - Velo T-140",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-14T16:54:39Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 1976.2,
+    "elevation_gain": 1.0,
+    "id": "19315371986",
+    "moving_time": 620.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-14T18:00:40Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19316940044",
+    "moving_time": 1321.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-14T20:33:52Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
