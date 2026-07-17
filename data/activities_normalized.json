@@ -13843,5 +13843,18 @@
     "start_date_local": "2026-07-15T20:21:32Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 33611.8,
+    "elevation_gain": 53.0,
+    "id": "19343260588",
+    "moving_time": 3521.0,
+    "name": "Zwift - Velo T-141",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-16T18:32:34Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
