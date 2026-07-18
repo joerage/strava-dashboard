@@ -13856,5 +13856,57 @@
     "start_date_local": "2026-07-16T18:32:34Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 1975.0,
+    "elevation_gain": 0.0,
+    "id": "19352184818",
+    "moving_time": 2204.0,
+    "name": "Lunch Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-17T12:04:31Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 8076.4,
+    "elevation_gain": 23.0,
+    "id": "19354697921",
+    "moving_time": 2424.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-17T16:46:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19355274773",
+    "moving_time": 1211.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-17T18:26:53Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 51512.4,
+    "elevation_gain": 79.0,
+    "id": "19364646925",
+    "moving_time": 5412.0,
+    "name": "Zwift - Velo T-142",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-18T09:44:54Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
