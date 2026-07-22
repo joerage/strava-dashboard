@@ -13934,5 +13934,31 @@
     "start_date_local": "2026-07-19T16:54:24Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 36563.9,
+    "elevation_gain": 57.0,
+    "id": "19408705328",
+    "moving_time": 3789.0,
+    "name": "Zwift - Velo T-144",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-21T15:15:23Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 1926.7,
+    "elevation_gain": 5.0,
+    "id": "19408838889",
+    "moving_time": 605.0,
+    "name": "Brick Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-21T16:20:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
