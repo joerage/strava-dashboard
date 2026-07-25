@@ -14012,5 +14012,44 @@
     "start_date_local": "2026-07-23T19:30:00Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 1800.0,
+    "elevation_gain": 0.0,
+    "id": "19447919244",
+    "moving_time": 1941.0,
+    "name": "Lunch Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-24T12:04:53Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 7141.4,
+    "elevation_gain": 14.0,
+    "id": "19450884478",
+    "moving_time": 2044.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-24T17:24:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 45164.2,
+    "elevation_gain": 69.0,
+    "id": "19460737226",
+    "moving_time": 4691.0,
+    "name": "Zwift - Velo T-146",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-25T09:59:37Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
