@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T16:05:10.413726+00:00",
+  "generated_at": "2026-07-26T16:02:30.132118+00:00",
   "years": {
     "2011": {
       "Run": {
@@ -8348,6 +8348,15 @@
           "distance": 7141.4,
           "elevation_gain": 14.0,
           "moving_time": 2044.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19472819550"
+          ],
+          "count": 1,
+          "distance": 11617.9,
+          "elevation_gain": 16.0,
+          "moving_time": 3332.0
         }
       },
       "Snowboard": {
@@ -9683,6 +9692,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2270.0
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "19461613706"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2847.0
         }
       },
       "Workout": {
