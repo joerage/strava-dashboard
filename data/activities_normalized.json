@@ -14142,5 +14142,31 @@
     "start_date_local": "2026-07-28T20:06:51Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 10840.8,
+    "elevation_gain": 41.0,
+    "id": "19520307866",
+    "moving_time": 3208.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-29T15:45:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 35248.3,
+    "elevation_gain": 54.0,
+    "id": "19530334003",
+    "moving_time": 3610.0,
+    "name": "Zwift - Velo T-149",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-30T10:15:15Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
