@@ -14233,5 +14233,18 @@
     "start_date_local": "2026-08-02T09:32:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 2167.9,
+    "elevation_gain": 0.0,
+    "id": "19584654001",
+    "moving_time": 3162.0,
+    "name": "Salty Swim in Porter's Lake, Nova Scotia",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-03T11:56:59Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
