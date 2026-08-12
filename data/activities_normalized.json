@@ -14409,7 +14409,7 @@
     "elevation_gain": 21.0,
     "id": "19696610387",
     "moving_time": 906.0,
-    "name": "Morning Run",
+    "name": "Brick run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-08-11T09:35:55Z",
@@ -14427,6 +14427,19 @@
     "raw_type": "Ride",
     "start_date_local": "2026-08-11T08:25:47Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 7565.2,
+    "elevation_gain": 46.0,
+    "id": "19711778606",
+    "moving_time": 2463.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-12T10:30:39Z",
+    "type": "Run",
     "year": 2026
   }
 ]
