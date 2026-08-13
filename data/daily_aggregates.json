@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T15:59:40.091881+00:00",
+  "generated_at": "2026-08-13T15:59:55.929842+00:00",
   "years": {
     "2011": {
       "Run": {
@@ -7315,6 +7315,15 @@
           "distance": 10074.7,
           "elevation_gain": 483.0,
           "moving_time": 10045.0
+        },
+        "2026-08-12": {
+          "activity_ids": [
+            "19717477249"
+          ],
+          "count": 1,
+          "distance": 9045.9,
+          "elevation_gain": 206.0,
+          "moving_time": 7089.0
         }
       },
       "IceSkate": {
@@ -9069,6 +9078,15 @@
           "distance": 2149.1,
           "elevation_gain": 0.0,
           "moving_time": 3307.0
+        },
+        "2026-08-12": {
+          "activity_ids": [
+            "19713519447"
+          ],
+          "count": 1,
+          "distance": 154.9,
+          "elevation_gain": 0.0,
+          "moving_time": 215.0
         }
       },
       "VirtualRide": {
