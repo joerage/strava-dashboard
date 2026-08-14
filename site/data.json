@@ -7790,6 +7790,13 @@
       "subtype": "Hike",
       "type": "Hike",
       "year": 2026
+    },
+    {
+      "date": "2026-08-14",
+      "hour": 8,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16277,6 +16284,15 @@
           "distance": 7565.2,
           "elevation_gain": 46.0,
           "moving_time": 2463.0
+        },
+        "2026-08-14": {
+          "activity_ids": [
+            "19739377735"
+          ],
+          "count": 1,
+          "distance": 7796.4,
+          "elevation_gain": 65.0,
+          "moving_time": 2474.0
         }
       },
       "Snowboard": {
@@ -17773,7 +17789,7 @@
       }
     }
   },
-  "generated_at": "2026-08-13T15:59:55.948151+00:00",
+  "generated_at": "2026-08-14T15:53:08.770428+00:00",
   "other_bucket": "OtherSports",
   "repo": "joerage/strava-dashboard",
   "source": "strava",
