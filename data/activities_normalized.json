@@ -14610,5 +14610,31 @@
     "start_date_local": "2026-08-24T22:38:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 34871.0,
+    "elevation_gain": 53.0,
+    "id": "19898760146",
+    "moving_time": 3614.0,
+    "name": "Zwift - Velo T-163",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-25T15:15:27Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 2972.8,
+    "elevation_gain": 7.0,
+    "id": "19908637161",
+    "moving_time": 1071.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-26T09:42:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
