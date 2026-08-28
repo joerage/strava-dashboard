@@ -14636,5 +14636,31 @@
     "start_date_local": "2026-08-26T09:42:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19916250745",
+    "moving_time": 1601.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-26T20:13:56Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 51628.7,
+    "elevation_gain": 79.0,
+    "id": "19929296748",
+    "moving_time": 5409.0,
+    "name": "Zwift - Velo T-164",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-27T17:49:31Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
