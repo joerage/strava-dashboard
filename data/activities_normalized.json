@@ -14714,5 +14714,31 @@
     "start_date_local": "2026-08-30T12:01:32Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 58688.3,
+    "elevation_gain": 1003.0,
+    "id": "19969639218",
+    "moving_time": 7487.0,
+    "name": "Zwift - Three Sisters in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-30T17:02:44Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 5528.4,
+    "elevation_gain": 7.0,
+    "id": "19980758504",
+    "moving_time": 1854.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-31T15:17:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
