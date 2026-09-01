@@ -14740,5 +14740,18 @@
     "start_date_local": "2026-08-31T15:17:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 34478.1,
+    "elevation_gain": 53.0,
+    "id": "19984037228",
+    "moving_time": 3759.0,
+    "name": "Zwift - Velo T-165",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-31T20:46:42Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
