@@ -14753,5 +14753,31 @@
     "start_date_local": "2026-08-31T20:46:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 38024.0,
+    "elevation_gain": 59.0,
+    "id": "19997634952",
+    "moving_time": 3857.0,
+    "name": "Zwift - Velo T-166",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-01T17:54:00Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 3823.1,
+    "elevation_gain": 9.0,
+    "id": "19997944418",
+    "moving_time": 1217.0,
+    "name": "Brick run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-01T19:00:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
