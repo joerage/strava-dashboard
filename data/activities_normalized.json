@@ -14805,5 +14805,70 @@
     "start_date_local": "2026-09-03T20:37:44Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 57450.1,
+    "elevation_gain": 89.0,
+    "id": "20050506013",
+    "moving_time": 5852.0,
+    "name": "Zwift - Velo Multi/brick",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-05T11:07:53Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 2040.1,
+    "elevation_gain": 10.0,
+    "id": "20050710745",
+    "moving_time": 628.0,
+    "name": "Brick Run 3",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-05T13:27:28Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 2960.3,
+    "elevation_gain": 13.0,
+    "id": "20050710784",
+    "moving_time": 887.0,
+    "name": "Brick Run 2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-05T12:49:15Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 4113.2,
+    "elevation_gain": 9.0,
+    "id": "20050710795",
+    "moving_time": 1242.0,
+    "name": "Brick Run 1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-05T11:49:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 12021.7,
+    "elevation_gain": 26.0,
+    "id": "20063232624",
+    "moving_time": 3699.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-06T10:28:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
