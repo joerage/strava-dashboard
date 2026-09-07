@@ -14870,5 +14870,31 @@
     "start_date_local": "2026-09-06T10:28:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 2082.4,
+    "elevation_gain": 0.0,
+    "id": "20065767041",
+    "moving_time": 2650.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-06T13:49:01Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 32989.8,
+    "elevation_gain": 53.0,
+    "id": "20075713183",
+    "moving_time": 3625.0,
+    "name": "Zwift - Velo T-168",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-07T11:02:52Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
