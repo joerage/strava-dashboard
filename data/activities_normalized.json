@@ -14896,5 +14896,31 @@
     "start_date_local": "2026-09-07T11:02:52Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 36295.5,
+    "elevation_gain": 57.0,
+    "id": "20095047746",
+    "moving_time": 3728.0,
+    "name": "Zwift - Velo T-169",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-08T17:41:43Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 4383.7,
+    "elevation_gain": 10.0,
+    "id": "20095334616",
+    "moving_time": 1206.0,
+    "name": "Brick Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-08T18:46:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
