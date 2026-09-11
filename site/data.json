@@ -8042,6 +8042,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-09-10",
+      "hour": 19,
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18116,6 +18123,15 @@
           "distance": 36295.5,
           "elevation_gain": 57.0,
           "moving_time": 3728.0
+        },
+        "2026-09-10": {
+          "activity_ids": [
+            "20124465935"
+          ],
+          "count": 1,
+          "distance": 52232.0,
+          "elevation_gain": 80.0,
+          "moving_time": 5405.0
         }
       },
       "WeightTraining": {
@@ -18333,7 +18349,7 @@
       }
     }
   },
-  "generated_at": "2026-09-10T18:11:21.434203+00:00",
+  "generated_at": "2026-09-11T18:12:56.633952+00:00",
   "other_bucket": "OtherSports",
   "repo": "joerage/strava-dashboard",
   "source": "strava",
