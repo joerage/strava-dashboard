@@ -14948,5 +14948,44 @@
     "start_date_local": "2026-09-10T19:45:01Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 83283.2,
+    "elevation_gain": 253.0,
+    "id": "20148076429",
+    "moving_time": 8683.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-12T11:45:04Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 7342.9,
+    "elevation_gain": 15.0,
+    "id": "20148511830",
+    "moving_time": 2104.0,
+    "name": "Brick run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T14:15:22Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 2250.0,
+    "elevation_gain": 0.0,
+    "id": "20161456810",
+    "moving_time": 2454.0,
+    "name": "Lunch Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-13T11:56:59Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
