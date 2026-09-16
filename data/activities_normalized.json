@@ -15000,5 +15000,44 @@
     "start_date_local": "2026-09-13T13:05:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 35435.3,
+    "elevation_gain": 54.0,
+    "id": "20192483728",
+    "moving_time": 3615.0,
+    "name": "Zwift - Velo T-171",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-15T18:05:51Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 4093.9,
+    "elevation_gain": 15.0,
+    "id": "20192806601",
+    "moving_time": 1205.0,
+    "name": "Brick Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-15T19:08:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 2050.0,
+    "elevation_gain": 0.0,
+    "id": "20201478389",
+    "moving_time": 2273.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-16T10:56:54Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
