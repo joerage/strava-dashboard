@@ -8098,6 +8098,13 @@
       "subtype": "Swim",
       "type": "Swim",
       "year": 2026
+    },
+    {
+      "date": "2026-09-16",
+      "hour": 18,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16776,6 +16783,15 @@
           "distance": 4093.9,
           "elevation_gain": 15.0,
           "moving_time": 1205.0
+        },
+        "2026-09-16": {
+          "activity_ids": [
+            "20207050961"
+          ],
+          "count": 1,
+          "distance": 10950.3,
+          "elevation_gain": 17.0,
+          "moving_time": 3086.0
         }
       },
       "Snowboard": {
@@ -18461,7 +18477,7 @@
       }
     }
   },
-  "generated_at": "2026-09-16T18:43:53.933024+00:00",
+  "generated_at": "2026-09-17T18:51:05.030551+00:00",
   "other_bucket": "OtherSports",
   "repo": "joerage/strava-dashboard",
   "source": "strava",
