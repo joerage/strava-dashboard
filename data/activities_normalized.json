@@ -15052,5 +15052,18 @@
     "start_date_local": "2026-09-16T18:29:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 40614.0,
+    "elevation_gain": 64.0,
+    "id": "20220543532",
+    "moving_time": 4214.0,
+    "name": "Zwift - Velo T-172",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-17T18:16:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
