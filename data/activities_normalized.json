@@ -15195,5 +15195,18 @@
     "start_date_local": "2026-09-24T13:09:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 533.1,
+    "elevation_gain": 0.0,
+    "id": "20322530198",
+    "moving_time": 659.0,
+    "name": "\u00daltimo nado",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-25T13:01:47Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
