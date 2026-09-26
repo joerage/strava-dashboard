@@ -8189,6 +8189,41 @@
       "subtype": "Swim",
       "type": "Swim",
       "year": 2026
+    },
+    {
+      "date": "2026-09-26",
+      "hour": 14,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-26",
+      "hour": 12,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-26",
+      "hour": 12,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-26",
+      "hour": 12,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-26",
+      "hour": 14,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15837,6 +15872,15 @@
           "distance": 22184.6,
           "elevation_gain": 220.0,
           "moving_time": 2945.0
+        },
+        "2026-09-26": {
+          "activity_ids": [
+            "20336808864"
+          ],
+          "count": 1,
+          "distance": 38097.6,
+          "elevation_gain": 502.0,
+          "moving_time": 4092.0
         }
       },
       "Run": {
@@ -16939,6 +16983,15 @@
           "distance": 3170.3,
           "elevation_gain": 29.0,
           "moving_time": 933.0
+        },
+        "2026-09-26": {
+          "activity_ids": [
+            "20336809176"
+          ],
+          "count": 1,
+          "distance": 10084.7,
+          "elevation_gain": 61.0,
+          "moving_time": 2744.0
         }
       },
       "Snowboard": {
@@ -17631,6 +17684,15 @@
           "distance": 533.1,
           "elevation_gain": 0.0,
           "moving_time": 659.0
+        },
+        "2026-09-26": {
+          "activity_ids": [
+            "20336808868"
+          ],
+          "count": 1,
+          "distance": 1508.1,
+          "elevation_gain": 0.0,
+          "moving_time": 1794.0
         }
       },
       "VirtualRide": {
@@ -18665,11 +18727,21 @@
           "distance": 598.6,
           "elevation_gain": 15.0,
           "moving_time": 297.0
+        },
+        "2026-09-26": {
+          "activity_ids": [
+            "20336808805",
+            "20336808855"
+          ],
+          "count": 2,
+          "distance": 929.6,
+          "elevation_gain": 2.0,
+          "moving_time": 324.0
         }
       }
     }
   },
-  "generated_at": "2026-09-25T19:09:24.804078+00:00",
+  "generated_at": "2026-09-26T18:24:27.372147+00:00",
   "other_bucket": "OtherSports",
   "repo": "joerage/strava-dashboard",
   "source": "strava",
