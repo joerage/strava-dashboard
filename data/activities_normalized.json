@@ -15273,5 +15273,18 @@
     "start_date_local": "2026-09-26T14:05:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 12047.0,
+    "elevation_gain": 347.0,
+    "id": "20364549851",
+    "moving_time": 11533.0,
+    "name": "Islas de Cies",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-09-28T11:59:33Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
