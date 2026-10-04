@@ -15338,5 +15338,31 @@
     "start_date_local": "2026-10-02T16:44:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 54211.7,
+    "elevation_gain": 84.0,
+    "id": "20438576218",
+    "moving_time": 5409.0,
+    "name": "Zwift - Velo Longue Sortie",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-03T14:59:01Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 12759.7,
+    "elevation_gain": 25.0,
+    "id": "20449607311",
+    "moving_time": 3609.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-04T10:12:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
