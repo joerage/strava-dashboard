@@ -15598,5 +15598,18 @@
     "start_date_local": "2026-10-14T21:11:13Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 28827.2,
+    "elevation_gain": 46.0,
+    "id": "20602121616",
+    "moving_time": 3014.0,
+    "name": "Zwift - Velo A-005",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-15T18:19:17Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
