@@ -15689,5 +15689,31 @@
     "start_date_local": "2026-10-18T17:15:18Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 31817.5,
+    "elevation_gain": 50.0,
+    "id": "20668946994",
+    "moving_time": 3314.0,
+    "name": "Zwift - Velo A-007",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-20T20:06:38Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 32268.6,
+    "elevation_gain": 52.0,
+    "id": "20682619028",
+    "moving_time": 3610.0,
+    "name": "Zwift - Diesel Distance Builder",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-21T20:40:59Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
