@@ -8462,6 +8462,13 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "year": 2026
+    },
+    {
+      "date": "2026-10-22",
+      "hour": 19,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19249,6 +19256,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1939.0
+        },
+        "2026-10-22": {
+          "activity_ids": [
+            "20695036437"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2740.0
         }
       },
       "Workout": {
@@ -19285,7 +19301,7 @@
       }
     }
   },
-  "generated_at": "2026-10-22T19:04:17.437247+00:00",
+  "generated_at": "2026-10-23T18:54:34.124824+00:00",
   "other_bucket": "OtherSports",
   "repo": "joerage/strava-dashboard",
   "source": "strava",
