@@ -15949,5 +15949,18 @@
     "start_date_local": "2026-11-04T15:08:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 21103.3,
+    "elevation_gain": 68.0,
+    "id": "20877524986",
+    "moving_time": 2430.0,
+    "name": "Zwift - Velo A-014",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-05T19:58:50Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
