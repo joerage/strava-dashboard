@@ -16001,5 +16001,44 @@
     "start_date_local": "2026-11-07T11:26:23Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 2375.0,
+    "elevation_gain": 0.0,
+    "id": "20900581148",
+    "moving_time": 2728.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-07T15:59:52Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 5524.1,
+    "elevation_gain": 13.0,
+    "id": "20911871417",
+    "moving_time": 1674.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-08T11:56:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20912534669",
+    "moving_time": 2760.0,
+    "name": "Lunch Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-08T12:43:59Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
