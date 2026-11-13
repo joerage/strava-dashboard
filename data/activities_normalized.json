@@ -16105,5 +16105,31 @@
     "start_date_local": "2026-11-11T20:05:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 33495.7,
+    "elevation_gain": 53.0,
+    "id": "20967142763",
+    "moving_time": 3558.0,
+    "name": "Zwift - Velo A-017 (Sprint)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-12T20:00:11Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 7873.3,
+    "elevation_gain": 11.0,
+    "id": "20975872405",
+    "moving_time": 2384.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-13T14:18:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
