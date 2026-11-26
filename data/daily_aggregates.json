@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:29:07.343075+00:00",
+  "generated_at": "2026-11-26T23:31:45.191089+00:00",
   "years": {
     "2011": {
       "Run": {
@@ -8964,6 +8964,15 @@
           "distance": 12312.6,
           "elevation_gain": 27.0,
           "moving_time": 3782.0
+        },
+        "2026-11-25": {
+          "activity_ids": [
+            "21126654096"
+          ],
+          "count": 1,
+          "distance": 11855.6,
+          "elevation_gain": 23.0,
+          "moving_time": 3491.0
         }
       },
       "Snowboard": {
@@ -9809,6 +9818,15 @@
           "distance": 2250.0,
           "elevation_gain": 0.0,
           "moving_time": 2507.0
+        },
+        "2026-11-26": {
+          "activity_ids": [
+            "21134213864"
+          ],
+          "count": 1,
+          "distance": 1825.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2008.0
         }
       },
       "VirtualRide": {
