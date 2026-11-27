@@ -16352,5 +16352,44 @@
     "start_date_local": "2026-11-26T11:30:45Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 33760.0,
+    "elevation_gain": 53.0,
+    "id": "21138587431",
+    "moving_time": 3675.0,
+    "name": "Zwift - Velo A-023",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-26T19:34:43Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 9349.2,
+    "elevation_gain": 98.0,
+    "id": "21145341050",
+    "moving_time": 2767.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-27T12:05:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21146618076",
+    "moving_time": 2949.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-27T14:37:05Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
